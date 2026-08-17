@@ -7,4 +7,4 @@ description: "A bit about me and this blog."
 ## Features
 本人啥也不会，所以虚心向世界请教
 ## Show your support
-If you like [hellodoogcat], then savor every single moment this world has to offer
+If you like [hellodugcat], then savor every single moment this world has to offer
