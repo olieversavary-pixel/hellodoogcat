@@ -1,7 +1,7 @@
 ---
 title: bridge
 author: savary
-pubDatetime: 2026-08-17T12:12:12Z
+pubDatetime: 2026-08-16T12:12:12Z
 featured: true
 draft: false
 tags: ["mind"]
