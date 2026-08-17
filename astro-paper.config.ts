@@ -2,8 +2,8 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://hellodoogcat-iota.vercel.app/",
-    title: "Hellodoogcat",
+    url: "https://hellodugcat-iota.vercel.app/",
+    title: "Hellodugcat",
     description: "Grateful to the world, and proud of myself",
     author: "savary",
     profile: "https://github.com/olieversavary-pixel",
