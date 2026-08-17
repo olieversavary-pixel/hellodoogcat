@@ -1,10 +1,9 @@
 ---
 title: qiao
-author: Sat Naing
+author: savary
 pubDatetime: 2022-08-06T04:06:31Z
 slug: example-draft-post
-featured: false
-draft: true
+featured: ture
 tags:
   - TypeScript
   - Astro
