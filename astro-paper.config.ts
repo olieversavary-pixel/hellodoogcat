@@ -7,7 +7,7 @@ export default defineAstroPaperConfig({
     description: "Grateful to the world, and proud of myself",
     author: "savary",
     profile: "https://github.com/olieversavary-pixel",
-    lang: "zh-CN",
+    lang: "en",
     ogImage: "default-og.jpg",
     timezone: "Asia/Shanghai",
     dir: "ltr",
