@@ -1,4 +1,3 @@
-
 import rss from "@astrojs/rss";
 import { getCollection } from "astro:content";
 import { getSortedPosts } from "@/utils/getSortedPosts";
@@ -27,13 +26,13 @@ export async function GET() {
       title: data.title,
       description: data.description,
       pubDate: new Date(data.modDatetime ?? data.pubDatetime),
-      // 将 Markdown 正文渲染为 HTML 并清洗后注入 RSS
-      content: sanitizeHtml(parser.render(body), {
+      // 此处将 parser.render(body) 修改为 parser.render(body ?? "")
+      content: sanitizeHtml(parser.render(body ?? ""), {
         allowedTags: sanitizeHtml.defaults.allowedTags,
         allowedAttributes: {
           ...sanitizeHtml.defaults.allowedAttributes,
           code: ["class"],        // 保留代码块的语言类名（用于高亮）
-          span: ["class", "style"], // 可选：保留某些内联样式或类
+          span: ["class", "style"], // 保留某些内联样式或类
         },
       }),
     })),
