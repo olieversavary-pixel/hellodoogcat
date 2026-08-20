@@ -30,7 +30,9 @@
     "satori": "^0.26.0",
     "sharp": "^0.35.2",
     "slugify": "^1.6.9",
-    "tailwindcss": "^4.3.2"
+    "tailwindcss": "^4.3.2",
+    "markdown-it": "^14.1.0",
+    "sanitize-html": "^2.13.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.9",
@@ -45,6 +47,8 @@
     "prettier": "3.9.3",
     "prettier-plugin-astro": "0.14.1",
     "prettier-plugin-tailwindcss": "^0.8.0",
-    "typescript": "^6.0.3"
+    "typescript": "^6.0.3",
+    "@types/markdown-it": "^14.1.0", 
+    "@types/sanitize-html": "^2.13.0"
   }
 }
