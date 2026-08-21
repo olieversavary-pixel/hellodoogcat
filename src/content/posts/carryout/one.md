@@ -1,5 +1,5 @@
 ---
-title: About ActionS
+title: About Action
 author: savary
 pubDatetime: 2026-08-20T12:12:12Z
 featured: true
@@ -8,7 +8,7 @@ tags: ["actions"]
 description: A Adventure
 ---
 - 今天是Aug 20th,2026.
-- 上午查看了一个叫做[adam.math.hhu.de](https://adam.math.hhu.de)[**Natural Number Game **]的网站
+- 上午查看了一个叫做[adam.math.hhu.de](https://adam.math.hhu.de)[Natural Number Game ]的网站
 - 它的定义是这样的——**Natural Number Game 是一个 开源项目，旨在将自然数的构建过程转化为一场寓教于乐的游戏**
 - 还有两位重量级人物evanchen和3Blue1Brown
 - 我想的确如此，不过我仅仅只是在该网站逛了差不多一小时，语言问题导致我学习缓慢，我想这并不是我理解能力的问题
