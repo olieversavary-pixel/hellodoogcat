@@ -87,3 +87,4 @@ description: A Adventure,yes!
   * **Activity Chunking Pattern:**
   * 其中穿穿插锻炼，能量补充 | Interleaved with physical exercise and energy replenishment
   * 隐性双语要求 | Implicit bilingual requirement
+*  **元解解元**  
