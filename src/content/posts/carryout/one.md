@@ -7,7 +7,7 @@ draft: false
 tags: ["actions"]
 description: A Adventure
 ---
-- 今天是Aug 20th,2026.
+- Aug 20th,2026.
 - 上午查看了一个叫做[adam.math.hhu.de](https://adam.math.hhu.de)[Natural Number Game ]的网站
 - 它的定义是这样的——**Natural Number Game 是一个 开源项目，旨在将自然数的构建过程转化为一场寓教于乐的游戏**
 - 还有两位重量级人物evanchen和3Blue1Brown
