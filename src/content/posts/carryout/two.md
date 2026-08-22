@@ -6,6 +6,7 @@ featured: true
 draft: false
 tags: ["actions"]
 description: A Adventure
+audio: /qin1.mp3
 ---
 # 随笔
 - Aug 21nd,2026
